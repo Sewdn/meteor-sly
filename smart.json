@@ -1,0 +1,8 @@
+{
+  "name": "sly",
+  "description": "SLY slider/navigation component",
+  "homepage": "https://github.com/Sewdn/meteor-sly",
+  "author": "Pieter Soudan",
+  "version": "0.1.0",
+  "git": "https://github.com/Sewdn/meteor-sly.git"
+}
